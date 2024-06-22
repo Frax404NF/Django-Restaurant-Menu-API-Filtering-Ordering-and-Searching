@@ -39,9 +39,9 @@ Searching by name:
 
 Example search pasta : http://127.0.0.1:8000/api/menu-items?search=Pasta
 ```
-![alt text](image.png)
+![alt text](docs/search-pasta.png)
 
 ```
 Result By Searching Pasta
 ```
-![alt text](image-1.png)
+![alt text](docs/result-pasta.png)
